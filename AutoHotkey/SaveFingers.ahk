@@ -63,3 +63,4 @@ RAlt & Enter::
 ::w31::, what is it?{Enter}
 ::w32::what is ^v?{Enter}
 ::e31::를 영어로 하면?{Enter}
+::mu3::https://muckmool.tistory.com/search/^v{Enter}
